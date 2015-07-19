@@ -1,0 +1,11 @@
+{
+  "name": "confirm",
+  "version": "0.0.1",
+  "description": "",
+  "main": "./confirm",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "João Afonso Martins",
+  "license": "MIT"
+}
